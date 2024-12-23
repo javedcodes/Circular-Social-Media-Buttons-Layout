@@ -1,0 +1,116 @@
+/* From jvcodes.com */
+
+.main {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(97, 97, 97);
+  }
+  
+  /* Styles for the upper row of buttons */
+  .up {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5em;
+  }
+  
+  /* Styles for the lower row of buttons */
+  .down {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5em;
+  }
+  
+  /* Common styles for individual buttons */
+  .card1, .card2, .card3, .card4 {
+    width: 90px;
+    height: 90px;
+    outline: none;
+    border: none;
+    background: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    transition: 0.2s ease-in-out;
+  }
+  
+  /* Specific styles for the Instagram button */
+  .card1 {
+    border-radius: 90px 5px 5px 5px;
+  }
+  .instagram {
+    margin-top: 1.5em;
+    margin-left: 1.2em;
+    fill: #cc39a4;
+  }
+  
+  /* Specific styles for the Twitter button */
+  .card2 {
+    border-radius: 5px 90px 5px 5px;
+  }
+  .twitter {
+    margin-top: 1.5em;
+    margin-left: -0.9em;
+    fill: #03A9F4;
+  }
+  
+  /* Specific styles for the GitHub button */
+  .card3 {
+    border-radius: 5px 5px 5px 90px;
+  }
+  .github {
+    margin-top: -0.6em;
+    margin-left: 1.2em;
+  }
+  
+  /* Specific styles for the Discord button */
+  .card4 {
+    border-radius: 5px 5px 90px 5px;
+  }
+  .discord {
+    margin-top: -0.9em;
+    margin-left: -1.2em;
+    fill: #314ffd;
+  }
+  
+  /* Hover effects for the Instagram button */
+  .card1:hover {
+    cursor: pointer;
+    scale: 1.1;
+    background-color: #cc39a4;
+  }
+  .card1:hover .instagram {
+    fill: white;
+  }
+  
+  /* Hover effects for the Twitter button */
+  .card2:hover {
+    cursor: pointer;
+    scale: 1.1;
+    background-color: #03A9F4;
+  }
+  .card2:hover .twitter {
+    fill: white;
+  }
+  
+  /* Hover effects for the GitHub button */
+  .card3:hover {
+    cursor: pointer;
+    scale: 1.1;
+    background-color: black;
+  }
+  .card3:hover .github {
+    fill: white;
+  }
+  
+  /* Hover effects for the Discord button */
+  .card4:hover {
+    cursor: pointer;
+    scale: 1.1;
+    background-color: #314ffd;
+  }
+  .card4:hover .discord {
+    fill: white;
+  }
+  
