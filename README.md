@@ -1,6 +1,6 @@
 # Circular Social Media Buttons Using HTML and CSS  
 
-Social media icons are a vital aspect of modern web design, enabling users to connect with brands across various platforms. A **<a href="https://jvcodes.com/responsive-portfolio-design-for-content-writer/">Circular Social Media Buttons</a>** not only enhances the aesthetic appeal but also ensures a clean, organized layout suitable for any web design.  
+Social media icons are a vital aspect of modern web design, enabling users to connect with brands across various platforms. A **<a href="https://jvcodes.com/circular-social-media-buttons-layout/">Circular Social Media Buttons</a>** not only enhances the aesthetic appeal but also ensures a clean, organized layout suitable for any web design.  
 
 In this article, you will learn how to create stylish circular social media icons using **HTML** and **CSS**. These icons are designed to fit within mini circles, each representing a social platform, resulting in an elegant and professional look.  
 
@@ -33,7 +33,7 @@ In this article, you will learn how to create stylish circular social media icon
 
 To use this **Circular Social Media Buttons**, visit:
 
-## <a href="https://jvcodes.com/responsive-portfolio-design-for-content-writer/">Circular Social Media Buttons</a>
+## <a href="https://jvcodes.com/circular-social-media-buttons-layout/">Circular Social Media Buttons</a>
 
 ## Video Preview
 
